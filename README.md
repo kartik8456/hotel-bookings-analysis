@@ -111,6 +111,8 @@ The full analysis results are in `FINDINGS.md`, and the queries are in `sql/02_a
 hotel-bookings-analysis/
 ├── README.md
 ├── FINDINGS.md
+├──data/
+│   ├──hotel_bookings_messy.csv
 ├── sql/
 │   ├── 01_cleaning.sql
 │   └── 02_analysis.sql
